@@ -5,12 +5,24 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="/2021/05/10/hello-world/"/>
-    <url>/2021/05/10/hello-world/</url>
+    <link href="/2021/05/09/hello-world/"/>
+    <url>/2021/05/09/hello-world/</url>
     
-    <content type="html"><![CDATA[<h1 id="你好！-世界"><a href="#你好！-世界" class="headerlink" title="你好！ 世界"></a><strong>你好！ 世界</strong></h1>]]></content>
+    <content type="html"><![CDATA[<h1 id="你好！-世界"><a href="#你好！-世界" class="headerlink" title="你好！ 世界"></a><strong>你好！ 世界</strong></h1><span id="more"></span><h1 id="个毛线啊-RE-反反复复的Hello-World"><a href="#个毛线啊-RE-反反复复的Hello-World" class="headerlink" title="个毛线啊 RE:反反复复的Hello World"></a><strong><del>个毛线啊</del> RE:反反复复的Hello World</strong></h1><h3 id="小声BB，都不知道写的这一堆东西什么时候又删完。"><a href="#小声BB，都不知道写的这一堆东西什么时候又删完。" class="headerlink" title="小声BB，都不知道写的这一堆东西什么时候又删完。"></a>小声BB，都不知道写的这一堆东西什么时候又删完。</h3>]]></content>
     
     
+    <categories>
+      
+      <category>true</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>日常生活</tag>
+      
+    </tags>
     
   </entry>
   
